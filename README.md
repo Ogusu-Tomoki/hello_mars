@@ -15,3 +15,7 @@
 
 ### リンクの例
 
+- [静岡大学](https://www.shizuoka.ac.jp)
+
+Ubuntuで入れたよ
+
